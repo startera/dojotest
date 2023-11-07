@@ -15,7 +15,7 @@ modules:
 
   - id: hello
     name: Hello
-    description: The first module in this example dojo.
+    description: I can do cool descriptions here! -spencer
 
     challenges:
 
