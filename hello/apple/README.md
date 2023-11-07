@@ -2,7 +2,7 @@
 ## apple
 
 This challenge is named `apple`, and is located within module `hello`.
-
+spencer was here
 When users start this challenge, their environment will have:
 - `/flag`
 - `/challenge/apple`
