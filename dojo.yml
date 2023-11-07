@@ -20,7 +20,7 @@ modules:
     challenges:
 
       - id: apple
-        name: Apple
+        name: Test
         description: This is apple.
 
       - id: banana
