@@ -14,7 +14,7 @@ award:
 modules:
 
   - id: hello
-    name: Hello
+    name: Spencer's
     description: I can do cool descriptions here! -spencer
 
     challenges:
@@ -28,7 +28,7 @@ modules:
         description: This is banana.
 
   - id: world
-    name: World
+    name: Dojos!
     description: The second module in this example dojo.
 
     challenges:
